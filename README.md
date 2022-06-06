@@ -1,4 +1,4 @@
-# slotmachine
+# Slot Machine
  a simple app that allows user to play slots.
 
 ![website](https://user-images.githubusercontent.com/102541464/172085973-c95277c7-b17a-4c08-8a94-acdff0b04882.png)
